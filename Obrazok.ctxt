@@ -1,0 +1,37 @@
+#BlueJ class context
+comment0.target=Obrazok
+comment0.text=\r\n\ Trieda\ Obrazok,\ reprezentuje\ bitmapovy\ obrazok,\ ktory\ moze\ byt\ vykresleny\ na\ platno.\r\n\ \r\n\ @author\ Miroslav\ Kvassay\r\n\ @authot\ Michal\ Varga\r\n\ \r\n\ @version\ 1.1\r\n
+comment1.params=suborSObrazkom
+comment1.target=Obrazok(java.lang.String)
+comment1.text=\r\n\ Parametricky\ konstruktor\ vytvori\ Obrazok\ na\ pozicii\ paX,\ paY\ s\ natocenim\ paUhol\r\n\ \r\n\ @param\ suborSObrazkom\ cesta\ k\ suboru\ s\ obrazkom,\ ktory\ sa\ ma\ vykreslovat\r\n
+comment10.params=
+comment10.target=void\ nakresli()
+comment10.text=\r\n\ Draw\ the\ square\ with\ current\ specifications\ on\ screen.\r\n
+comment11.params=
+comment11.target=void\ zmaz()
+comment11.text=\r\n\ Erase\ the\ square\ on\ screen.\r\n
+comment2.params=
+comment2.target=void\ zobraz()
+comment2.text=\r\n\ (Obr\u00E1zok)\ Zobraz\ sa.\r\n
+comment3.params=
+comment3.target=void\ skry()
+comment3.text=\r\n\ (Obr\u00E1zok)\ Zobraz\ sa.\r\n
+comment4.params=suborSObrazkom
+comment4.target=void\ zmenObrazok(java.lang.String)
+comment4.text=\r\n\ (Obr\u00E1zok)\ Zmen\u00ED\ obr\u00E1zok.\r\n\ S\u00FAbor\ s\ obr\u00E1zkom\ mus\u00ED\ existova\u0165.\r\n\ \r\n\ @param\ suborSObrazkom\ cesta\ k\ s\u00FAboru\ s\ obr\u00E1zkom,\ ktor\u00FD\ sa\ m\u00E1\ na\u010D\u00EDta\u0165\r\n
+comment5.params=stredX\ stredY
+comment5.target=void\ zmenPolohu(int,\ int)
+comment5.text=\r\n\ (Obr\u00E1zok)\ Zme\u0148\ polohu\ stredu\ obr\u00E1zka\ na\ hodnoty\ dan\u00E9\ parametrami.\ \r\n
+comment6.params=uhol
+comment6.target=void\ zmenUhol(double)
+comment6.text=\r\n\ (Obr\u00E1zok)\ Zme\u0148\ uhol\ nato\u010Denia\ obr\u00E1zku\ pod\u013Ea\ parametra.\ Sever\ \=\ 0.\r\n
+comment7.params=subor
+comment7.target=java.awt.image.BufferedImage\ nacitajObrazokZoSuboru(java.lang.String)
+comment7.text=\r\n\ Na\u010D\u00EDta\ obr\u00E1zok\ zo\ s\u00FAboru.\r\n
+comment8.params=
+comment8.target=int\ sirka()
+comment8.text=\r\n\ (Obr\u00E1zok)\ Vr\u00E1ti\ v\u0161\u00EDrku\ obr\u00E1zka.\r\n
+comment9.params=
+comment9.target=int\ vyska()
+comment9.text=\r\n\ (Obr\u00E1zok)\ Vr\u00E1ti\ v\u00FD\u0161ku\ obr\u00E1zka.\r\n
+numComments=12

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Zvuk
+comment0.text=\r\n\ Spusta\ zvuky\ <br\ />\r\n\ Pouzite\ kody\ z\ tutorialov\ \:\ <br\ />\r\n\ https\://www.ryisnow.online/2021/04/java-for-beginner-how-to-play-audio.html\ <br\ />\r\n\ https\://stackoverflow.com/questions/953598/audio-volume-control-increase-or-decrease-in-java\ <br\ />\r\n
+comment1.params=
+comment1.target=Zvuk\ dajZvuk()
+comment2.params=nazovZvuku
+comment2.target=void\ spustiZvuk(java.lang.String)
+comment2.text=\r\n\ Sta\u010D\u00ED\ nap\u00EDsa\u0165\ n\u00E1zov\ zvuku.\ <br\ />\r\n\ Ale\ berie\ iba\ .wav\ s\u00FAbory.\ <br\ />\r\n
+numComments=3

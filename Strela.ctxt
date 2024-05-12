@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Strela
+comment0.text=\r\n\ Pouziva\ sa\ na\ znicenie\ asteoridov\ <br\ />\r\n
+comment1.params=x\ y\ uhol
+comment1.target=Strela(int,\ int,\ double)
+comment2.params=
+comment2.target=void\ chod()
+comment2.text=\r\n\ Vyvolava\ sa\ kazdy\ tik.\ <br\ />\r\n\ Tu\ rata\ aj\ svoj\ dostrel,\ a\ ke\u010F\ prekro\u010D\u00ED\ maximalnu\ hodnotu\ dostrelu\ <br\ />\r\n\ strela\ sa\ automaticky\ vyma\u017Ee.\ <br\ />\r\n
+comment3.params=
+comment3.target=void\ znicSa()
+comment4.params=
+comment4.target=int\ getPolohuX()
+comment5.params=
+comment5.target=int\ getPolohuY()
+comment6.params=
+comment6.target=int\ getDelta()
+numComments=7

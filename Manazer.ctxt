@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Manazer
+comment0.text=\r\n\ Automaticky\ posiela\ spravy\ danym\ objektom\:<br\ />\r\n\ chod()\ -\ pri\ stlaceni\ klavesy\ UP\ alebo\ W<br\ />\r\n\ otocSa()\ -\ pri\ stlaceni\ klavesy\ LEFT,RIGHT\ alebo\ A,D<br\ />\r\n\ strielaj()\ -\ pri\ stlaceni\ klavesy\ SPACE\ alebo\ CTRL<br\ />\r\n\ spustiHru()\ -\ pri\ stlaceni\ klavesy\ ENTER<br\ />\r\n\ vypniHru()\ -\ pri\ stlaceni\ klavesy\ ESC<br\ />\r\n\ tik()\ -\ kazdych\ 0,1\ sekundy<br\ />\r\n
+comment1.params=selektor
+comment1.target=void\ posliSpravu(java.lang.String)
+comment2.params=selektor\ prvyParameter
+comment2.target=void\ posliSpravu(java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ doNothing()
+comment4.params=
+comment4.target=void\ removeDeletedObjects()
+comment5.params=
+comment5.target=Manazer()
+comment5.text=\r\n\ Vytvori\ novy\ manazer,\ ktory\ nespravuje\ zatial\ ziadne\ objekty.\r\n
+comment6.params=objekt
+comment6.target=void\ spravujObjekt(java.lang.Object)
+comment6.text=\r\n\ Manazer\ bude\ spravovat\ dany\ objekt.\r\n
+comment7.params=objekt
+comment7.target=void\ prestanSpravovatObjekt(java.lang.Object)
+comment7.text=\r\n\ Manazer\ prestane\ spravovat\ dany\ objekt.\r\n
+numComments=8

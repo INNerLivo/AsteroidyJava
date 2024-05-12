@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=VelkostAsteroidu
+comment0.text=\r\n\ Hodnoty\ su\ pou\u017Eit\u00E9\ pri\ rozozn\u00E1van\u00ED\ ve\u013Ekosti\ asteroidu.\u0000\ <br\ />\r\n\ MALY(24),\ <br\ />\r\n\ STREDNY(40),\ <br\ />\r\n\ VELKY(64);\ <br\ />\r\n
+comment1.params=velkost
+comment1.target=VelkostAsteroidu(int)
+comment2.params=
+comment2.target=int\ getVelkost()
+numComments=3

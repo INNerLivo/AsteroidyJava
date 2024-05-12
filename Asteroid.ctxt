@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Asteroid
+comment0.text=\r\n\ Hlavny\ nepriatel,\ tento\ objekt\ sa\ hrac\ snazi\ nicit\ <br\ />\r\n
+comment1.params=x\ y\ uhol\ velkost
+comment1.target=Asteroid(int,\ int,\ double,\ VelkostAsteroidu)
+comment2.params=
+comment2.target=void\ chod()
+comment2.text=\r\n\ Vyvolava\ sa\ ka\u017Ed\u00FD\ tik.\r\n\ Vykon\u00E1va\ pohyb\ a\ kontroluje\ kol\u00EDzie\ s\ lo\u010Fkou\ a\ so\ strelou.\r\n\ Ak\ \u00E1no\ tak\ sa\ zni\u010D\u00ED.\r\n
+comment3.params=
+comment3.target=void\ znicSa()
+comment3.text=\r\n\ Ni\u010D\u00ED\ asteroid\ tak,\ \u017Ee\ sa\ rozdel\u00ED\ na\ dve\ men\u0161ie\ \u010Dasti\r\n\ alebo\ sa\ zni\u010D\u00ED\ kompletne.\r\n\ V\ ka\u017Edom\ p\u00E1de\ prid\u00E1va\ bod.\r\n
+comment4.params=
+comment4.target=boolean\ koliduje()
+comment4.text=\r\n\ Kontroluje\ kol\u00EDzie\ s\ \u013Eo\u010Fkou\ alebo\ so\ strelou.\r\n\ A\ vracia\ booleanovu\ hodnotu.\r\n
+comment5.params=
+comment5.target=void\ odstranSa()
+comment5.text=\r\n\ Na\ rozdiel\ od\ met\u00F3dy\ znicSa()\r\n\ t\u00E1to\ met\u00F3da\ nerozdeluje\ asteroidy\ na\ men\u0161ie\ k\u00FAsky\ ale\ rovno\ sa\ ich\ zbav\u00ED.\r\n\ Je\ vyvolan\u00E1\ po\u010Das\ ukon\u010Denia\ hry.\r\n
+numComments=6
